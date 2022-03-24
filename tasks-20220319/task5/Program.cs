@@ -9,7 +9,7 @@ namespace task5
             // 4 reqemli eded verilib.
             // Bu ededin evvelin 4 reqemi , axirina ise 44 ededini artir.
             // Alinan cavabin 44 % tap.
-            Console.WriteLine("eded daxil et: ");
+            Console.Write("eded daxil et: ");
             int a=Convert.ToInt32(Console.ReadLine());
                 if(a>999 && a <= 9999)
             {
