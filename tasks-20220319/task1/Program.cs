@@ -12,7 +12,8 @@ namespace task1
             int a=Convert.ToInt32(Console.ReadLine());
             if(a>999 && a <= 9999)
             {
-                Console.WriteLine($"{7}{a}{8}");
+               
+               Console.WriteLine($"{7}{a}{8}");
             }
             else
             {
