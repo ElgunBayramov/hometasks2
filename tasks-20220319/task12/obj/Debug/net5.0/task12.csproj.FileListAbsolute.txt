@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\bin\Debug\net5.0\task12.exe
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\bin\Debug\net5.0\task12.deps.json
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\bin\Debug\net5.0\task12.runtimeconfig.json
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\bin\Debug\net5.0\task12.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\bin\Debug\net5.0\task12.dll
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\bin\Debug\net5.0\task12.pdb
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\obj\Debug\net5.0\task12.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\obj\Debug\net5.0\task12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\obj\Debug\net5.0\task12.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\obj\Debug\net5.0\task12.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\obj\Debug\net5.0\task12.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\obj\Debug\net5.0\task12.dll
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\obj\Debug\net5.0\refint\task12.dll
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\obj\Debug\net5.0\task12.pdb
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\obj\Debug\net5.0\task12.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\hometasks2\tasks-20220319\task12\obj\Debug\net5.0\ref\task12.dll

@@ -14,8 +14,9 @@ namespace task11
             int b = Convert.ToInt32(Console.ReadLine());
             Console.Write("ucuncu ededi daxil et: ");
             int c = Convert.ToInt32(Console.ReadLine());
-            Console.Write("dorduncucu ededi daxil et: ");
+            Console.Write("dorduncu ededi daxil et: ");
             int d = Convert.ToInt32(Console.ReadLine());
+
             if (a > 9999 && a <= 99999 && b > 9999 && b <= 99999 && c > 9999 && c <= 99999 && d > 9999 && d <= 99999)
             {
                 double x = a + c;
