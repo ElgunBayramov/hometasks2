@@ -29,7 +29,10 @@ namespace task12
                 double n=m * 11 * 1.0 / 100;
                 Console.WriteLine($"{m} ededinin 11 faizi={n}");
             }
-
+            else
+            {
+                Console.WriteLine("sert duzgun odenilmeyib");
+            }
         }
     }
 }
